@@ -67,7 +67,7 @@ package.json                   # Dependências e scripts
 
 ## 👨‍💻 Autor
 
-**Seu Nome**  
+**José Aurélio do Carmo Ribeiro Júnior**  
 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-aurelio-do-carmo-ribeiro-junior-93553490/)  
 [GitHub](https://github.com/aurelioribeiroo)
 
