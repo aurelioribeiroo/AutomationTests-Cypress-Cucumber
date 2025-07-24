@@ -1,0 +1,14 @@
+{
+  "name": "projetoportifolio-cypress-cucumber",
+  "version": "1.0.0",
+  "description": "Projeto Cypress + Cucumber",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^16.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "@cypress/webpack-preprocessor": "^5.16.0",
+    "cypress": "^12.17.4"
+  }
+}
