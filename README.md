@@ -14,8 +14,8 @@ Este projeto automatiza testes end-to-end no site [https://www.automationexercis
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/automationexercise-cypress-bdd.git
-cd automationexercise-cypress-bdd
+git clone https://github.com/aurelioribeiroo/AutomationTests-Cypress-Cucumber.git
+cd AutomationTests-Cypress-Cucumber
 ```
 
 ### 2. Instale as dependências
